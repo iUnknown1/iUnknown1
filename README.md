@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/iUnknown1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/iUnknown1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infrastructure in Azures](https://github.com/iUnknown1/configure-ad)
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/iUnknown1/configure-ad)
   - [Deploying Active Directory in Azure](https://github.com/iUnknown1/azure-network-protocols)
   -  [Creating Users, Managing Accounts, Group Policy in Azure](https://github.com/iUnknown1/active-directory-group-policy)
 
