@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/iUnknown1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Preparing Active Directory Infrastructure in Azures](https://github.com/iUnknown1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iUnknown1/azure-network-protocols)
+  - [Deploying Active Directory in Azure](https://github.com/iUnknown1/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
